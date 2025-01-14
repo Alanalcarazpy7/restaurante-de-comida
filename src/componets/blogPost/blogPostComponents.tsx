@@ -2,7 +2,6 @@ import React from 'react'
 import { BiLike } from "react-icons/bi";
 import { RiMessage2Line } from "react-icons/ri";
 import { FiShare2 } from "react-icons/fi";
-import food1 from '../../assets/images/BlogPostImg/food1.jpg'
 
 interface TypesProps{
   imagen:string;

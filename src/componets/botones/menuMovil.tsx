@@ -1,4 +1,4 @@
-import React, { ReactNode, createContext, useContext, useState, useEffect, Children } from 'react';
+import React, { ReactNode, createContext, useContext, useState } from 'react';
 import { IoMenu } from 'react-icons/io5';
 
 // Crear contexto para el menú móvil

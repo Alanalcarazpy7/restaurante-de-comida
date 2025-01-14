@@ -1,9 +1,7 @@
-import React, { useContext } from 'react'
 import CategoryFood from '../componets/categoryFood/categoryFood'
-import { UserContext } from '../context/UserProvider'
 
 const Category = () => {
-  const windowSize=useContext(UserContext)
+  //const windowSize=useContext(UserContext)
 
   return (
     <div className='mt-10'>

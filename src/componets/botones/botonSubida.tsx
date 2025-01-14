@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaArrowAltCircleUp } from "react-icons/fa";
 
 const BotonSubida = () => {

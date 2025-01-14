@@ -1,14 +1,12 @@
-import React, { useContext } from 'react'
 import ClientsComponets from '../componets/clientsSection/clientsComponets'
 import { SiCodechef } from "react-icons/si";
 import { IoFastFoodOutline } from "react-icons/io5";
 import { GiKnifeFork } from "react-icons/gi";
 import { LiaPizzaSliceSolid } from "react-icons/lia";
 import image from "../assets/images/ClientsImg/imgfood.jpg"
-import { UserContext } from '../context/UserProvider';
 
 const Clients = () => {
-  const windowSize=useContext(UserContext)
+  //const windowSize=useContext(UserContext)
 
   return (
     <div className='w-full bg-cover bg-no-repeat bg-center mt-10 mb-10'

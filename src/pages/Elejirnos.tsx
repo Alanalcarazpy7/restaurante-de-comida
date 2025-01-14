@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import PorqueElejirnos from '../componets/Elejirnos/porqueElejirnos'
 import ImgElejirnos from '../componets/Elejirnos/imgElejirnos'
 import { PiHamburgerLight,PiCookieBold,PiWineLight   } from "react-icons/pi";

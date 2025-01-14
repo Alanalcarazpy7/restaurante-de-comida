@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import MenuComponents from '../componets/menu/menuComponents'
 import imgMenu1 from '../assets/images/Menu/imgMenu.png'
 import imgMenu2 from '../assets/images/Menu/imgMenu2.png'

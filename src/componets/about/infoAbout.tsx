@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import Boton from '../../componets/botones/boton';
 import { UserContext } from '../../context/UserProvider';
 import Check from '../../assets/svg/check';

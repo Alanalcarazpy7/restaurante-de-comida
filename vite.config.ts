@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react()],
   /*Server para conectarme a mi Celular y ver el Proyecto*/
   server: {
-    host: '0.0.0.0',
+    host: "0.0.0.0",
   },
-})
+  base: "https://alanalcarazpy7.github.io/restaurante-de-comida",
+});

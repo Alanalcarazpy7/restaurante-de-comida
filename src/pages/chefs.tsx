@@ -1,10 +1,8 @@
-import React from 'react'
 import ChefComponents from '../componets/chef/chefComponents'
 import Chief_chef from '../assets/images/Chefs/Chief_chef.jpg'
 import Assistant_chef from '../assets/images/Chefs/Assistant_chef.jpg'
 import Advertising_chef from '../assets/images/Chefs/Advertising_chef.jpg'
 import Chef from '../assets/images/Chefs/Chef.jpg'
-import Boton from '../componets/botones/boton'
 
 
 const Chefs = () => {

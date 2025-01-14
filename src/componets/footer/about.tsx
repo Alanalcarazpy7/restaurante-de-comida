@@ -1,4 +1,3 @@
-import React from 'react'
 import { BsStopwatch } from "react-icons/bs";
 
 const About = () => {

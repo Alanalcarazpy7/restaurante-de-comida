@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import { FaFacebookF,FaTwitter,FaInstagram,FaYoutube,FaPinterest } from "react-icons/fa";
 import { UserContext } from '../../context/UserProvider';
 

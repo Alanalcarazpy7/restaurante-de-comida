@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import imgFood1 from '../../assets/images/categoriaFood/imgCategory1.jpg'
 import imgFood2 from '../../assets/images/categoriaFood/imgCategory2.jpg'
 import imgFood3 from '../../assets/images/categoriaFood/imgCategory3.jpg'

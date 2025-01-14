@@ -1,4 +1,3 @@
-import React from 'react'
 import BuscadorSVG from '../../assets/svg/buscadorSVG';
 
 const Search = () => {

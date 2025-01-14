@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import ProcesoDocumentacionComponents from '../componets/procesoDocumentacion/procesoDocumentacionComponents'
 import fondoImg from '../assets/images/ProcesoDocumentacionImg/food1.jpg'
 import { UserContext } from '../context/UserProvider'

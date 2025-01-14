@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from 'react';
+import { useContext } from 'react';
 import Header from './pages/header';
 import UserProvider from './context/UserProvider';
 import About from './pages/about';
@@ -12,7 +12,7 @@ import ProcesoDocumentacion from './pages/procesoDocumentacion';
 import BlogPost from './pages/blogPost';
 import Footer from './pages/footer';
 import BotonSubida from './componets/botones/botonSubida';
-import { MenuMovilProvider,MenuMovilContext } from './componets/botones/menuMovil';
+import { MenuMovilContext } from './componets/botones/menuMovil';
 import MenuMovilLink from './componets/menuMovil/menu';
 
 function App() {

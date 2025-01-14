@@ -1,4 +1,3 @@
-import React from 'react'
 import TestimonioComponents from '../componets/testimonio/testimonioComponents'
 import cliente1 from '../assets/images/Testimonio/cliente1.jpg'
 import { Slide } from 'react-slideshow-image';
@@ -34,18 +33,18 @@ const testimoniosData = [
 ];
 
 
-const buttonStyle={
+/*const buttonStyle={
   color: 'gray', // Cambia el color de las flechas aquí
   width: '30px', // Ajusta el ancho de las flechas
   background: 'none',
   border: '0px',
-}
+}*/
 
-const properties = {
+/*const properties = {
   prevArrow: <button style={{ ...buttonStyle }}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill={buttonStyle.color}><path d="M242 180.6v-138L0 256l242 213.4V331.2h270V180.6z"/></svg></button>,
   nextArrow: <button style={{ ...buttonStyle }}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill={buttonStyle.color}><path d="M512 256L270 42.6v138.2H0v150.6h270v138z"/></svg></button>,
   duration: 3000
-}
+}*/
 
 const divStyle = {
   display: 'flex',

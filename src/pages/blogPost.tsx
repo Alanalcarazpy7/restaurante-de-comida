@@ -1,4 +1,3 @@
-import React from 'react'
 import BlogPostComponents from '../componets/blogPost/blogPostComponents'
 import food1 from '../assets/images/BlogPostImg/food1.jpg'
 import food2 from '../assets/images/BlogPostImg/food2.jpg'

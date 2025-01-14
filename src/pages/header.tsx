@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext, ReactElement } from 'react';
+import React, { useContext } from 'react';
 import Navbar from '../componets/header/navbar';
 import Search from '../componets/buscador/search';
 import SectionHeader from '../componets/header/sectionHeader';

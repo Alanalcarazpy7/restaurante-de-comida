@@ -1,10 +1,9 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import InfoAbout from '../componets/about/infoAbout'
 import { UserContext } from '../context/UserProvider'
 import ImgAbout1 from '../assets/images/imgAbout1.jpg';
 import ImgAbout2 from '../assets/images/imgAbout2.jpg';
 import ImgAbout3 from '../assets/images/imgAbout3.jpg';
-import Check from '../assets/svg/check';
 
 const About = () => {
   const windowSize=useContext(UserContext)
